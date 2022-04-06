@@ -1,4 +1,4 @@
-# Management Kontak
+# Manajemen Kontak
 # Menu
 1. Daftar Kontak
 2. Tambah Kontak
